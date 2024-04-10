@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Prajnan Goswami.
 ___
 
-I am an MSAI graduate student at Northeastern University.
+I am an MSAI graduate from Northeastern University.
 
 - 🌱 I'am currently looking to collaborate on research in computer vision and deep learning.
 - 📫 How to reach me: prajnan1993@gmail.com 
