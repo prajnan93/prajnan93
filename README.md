@@ -1,11 +1,6 @@
 ### Hi there 👋, I am Prajnan Goswami.
 ___
 
-I am an MSAI graduate from Northeastern University.
-
-- 🌱 I'am currently looking to collaborate on research in computer vision and deep learning.
-- 📫 How to reach me: prajnan1993@gmail.com 
-
 <!--
 **prajnan93/prajnan93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
